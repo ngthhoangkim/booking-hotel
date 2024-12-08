@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "6714d463ed446dfabd0905ec"
+  },
+  "username": "Qkhanhss1",
+  "email": "nqkhanh@gmail.com",
+  "country": "Berlin",
+  "city": "HCM",
+  "phone": "1234567",
+  "password": "$2a$10$TfDbKEcvcFkGhoYZyPQr/e0Auo.YJJv2ukoxx.2QfY86umx37hRPC",
+  "isAdmin": true,
+  "createdAt": {
+    "$date": "2024-10-20T09:58:59.711Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-23T13:28:17.503Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673708a28c8e57db6ba3dd7f"
+  },
+  "username": "kim",
+  "email": "kim@gmail.com",
+  "phone": "0945420704",
+  "password": "$2a$10$26U52QJo8HkekK/kkU34EOMnyGcbDt6VE6pOfEgdHNFu6uWiiQ5YW",
+  "isAdmin": true,
+  "createdAt": {
+    "$date": "2024-11-15T08:38:58.842Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-23T05:35:11.959Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674c6521a83959e9454965a3"
+  },
+  "username": "ngthhoangkim",
+  "email": "ngthhoangkim@gmail.com",
+  "phone": "0113114115",
+  "password": "$2a$10$yWhNfYgP.xXA9FSk1pwnzuEG8d2tl8v9q9d.EE/gU8oJwj252xW26",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2024-12-01T13:31:13.907Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-01T13:31:13.907Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675145d4b12fe97e00f1193a"
+  },
+  "username": "hoangkim",
+  "email": "hoangkim@gmail.com",
+  "phone": "099999999",
+  "password": "$2a$10$4SX3B76RnwUIVbLxBp/MjupnCfNOiY6wk.bV4HK1ZwlIJf5KVxPm6",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2024-12-05T06:19:00.161Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-05T06:19:00.161Z"
+  },
+  "__v": 0
+}]

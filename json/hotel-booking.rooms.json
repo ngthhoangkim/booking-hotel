@@ -1,0 +1,278 @@
+[{
+  "_id": {
+    "$oid": "673946c7c57afa4a22cf0fd5"
+  },
+  "title": "Phòng VIP",
+  "price": 300,
+  "maxPeople": 2,
+  "desc": "Phòng cao cấp",
+  "roomNumbers": [
+    {
+      "number": 101,
+      "unavailableDates": [],
+      "_id": {
+        "$oid": "673946c7c57afa4a22cf0fd6"
+      }
+    },
+    {
+      "number": 102,
+      "unavailableDates": [],
+      "_id": {
+        "$oid": "673946c7c57afa4a22cf0fd7"
+      }
+    },
+    {
+      "number": 103,
+      "unavailableDates": [],
+      "_id": {
+        "$oid": "673946c7c57afa4a22cf0fd8"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-11-17T01:28:39.819Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-17T02:15:00.077Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67394e92f0f23e0cf298d34c"
+  },
+  "title": "Phòng đơn",
+  "price": 150,
+  "maxPeople": 2,
+  "desc": "Phòng dành cho 1 người",
+  "roomNumbers": [
+    {
+      "number": 101,
+      "unavailableDates": [],
+      "_id": {
+        "$oid": "67394e92f0f23e0cf298d34d"
+      }
+    },
+    {
+      "number": 102,
+      "unavailableDates": [],
+      "_id": {
+        "$oid": "67394e92f0f23e0cf298d34e"
+      }
+    },
+    {
+      "number": 103,
+      "unavailableDates": [],
+      "_id": {
+        "$oid": "67394e92f0f23e0cf298d34f"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-11-17T02:01:54.042Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-17T02:01:54.042Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67418ff488a6ba56c54f7ad6"
+  },
+  "title": "Phòng VIP",
+  "price": 500000,
+  "maxPeople": 2,
+  "desc": "Phòng VIP",
+  "roomNumbers": [
+    {
+      "number": 201,
+      "unavailableDates": [
+        {
+          "$date": "2024-12-04T00:00:00.000Z"
+        },
+        {
+          "$date": "2024-12-04T00:00:00.000Z"
+        }
+      ],
+      "_id": {
+        "$oid": "67418ff488a6ba56c54f7ad7"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-11-23T08:19:00.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-01T09:39:38.602Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675123ea91b322ce1adf2b91"
+  },
+  "title": "Phòng Tổng Thống",
+  "price": 5000000,
+  "maxPeople": 4,
+  "desc": "Phòng rộng rãi thoáng mát",
+  "roomNumbers": [
+    {
+      "number": 301,
+      "unavailableDates": [],
+      "_id": {
+        "$oid": "675123ea91b322ce1adf2b92"
+      }
+    }
+  ],
+  "hotelId": {
+    "$oid": "6714d933ed446dfabd0905f5"
+  },
+  "createdAt": {
+    "$date": "2024-12-05T03:54:18.710Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-05T03:54:18.710Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6751241891b322ce1adf2bde"
+  },
+  "title": "Phòng thường",
+  "price": 200000,
+  "maxPeople": 2,
+  "desc": "Phòng thường",
+  "roomNumbers": [
+    {
+      "number": 101,
+      "unavailableDates": [
+        {
+          "$date": "2024-12-05T00:00:00.000Z"
+        },
+        {
+          "$date": "2024-12-05T00:00:00.000Z"
+        }
+      ],
+      "_id": {
+        "$oid": "6751241891b322ce1adf2bdf"
+      }
+    }
+  ],
+  "hotelId": {
+    "$oid": "6714d93ced446dfabd0905f7"
+  },
+  "createdAt": {
+    "$date": "2024-12-05T03:55:04.112Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-05T06:28:52.884Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6751257091b322ce1adf2bef"
+  },
+  "title": "Phòng VIP",
+  "price": 500000,
+  "maxPeople": 2,
+  "desc": "Phòng Vip",
+  "roomNumbers": [
+    {
+      "number": 201,
+      "unavailableDates": [
+        {
+          "$date": "2024-12-05T00:00:00.000Z"
+        },
+        {
+          "$date": "2024-12-05T00:00:00.000Z"
+        }
+      ],
+      "_id": {
+        "$oid": "675125c191b322ce1adf2c02"
+      }
+    }
+  ],
+  "hotelId": {
+    "$oid": "6714d93ced446dfabd0905f7"
+  },
+  "createdAt": {
+    "$date": "2024-12-05T04:00:48.634Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-05T06:34:45.294Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67512c65d70a55d59f437005"
+  },
+  "title": "Landmark94",
+  "price": 150,
+  "maxPeople": 4,
+  "desc": "King Size bed, 1 bathroom, balcony overlooking main plaza",
+  "roomNumbers": [
+    {
+      "number": 113,
+      "unavailableDates": [],
+      "_id": {
+        "$oid": "67512c65d70a55d59f437006"
+      }
+    },
+    {
+      "number": 114,
+      "unavailableDates": [],
+      "_id": {
+        "$oid": "67512c65d70a55d59f437007"
+      }
+    },
+    {
+      "number": 115,
+      "unavailableDates": [],
+      "_id": {
+        "$oid": "67512c65d70a55d59f437008"
+      }
+    }
+  ],
+  "hotelId": {
+    "$oid": "6714d944ed446dfabd0905f9"
+  },
+  "createdAt": {
+    "$date": "2024-12-05T04:30:29.671Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-05T04:30:29.671Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67514bd4b12fe97e00f11d71"
+  },
+  "title": "test1",
+  "price": 20000,
+  "maxPeople": 2,
+  "desc": "moi",
+  "roomNumbers": [
+    {
+      "number": 301,
+      "unavailableDates": [],
+      "_id": {
+        "$oid": "67514bf8b12fe97e00f11d82"
+      }
+    }
+  ],
+  "hotelId": {
+    "$oid": "6714d933ed446dfabd0905f5"
+  },
+  "createdAt": {
+    "$date": "2024-12-05T06:44:36.474Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-05T06:45:12.833Z"
+  },
+  "__v": 0
+}]

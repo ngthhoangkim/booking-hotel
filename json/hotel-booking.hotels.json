@@ -1,0 +1,402 @@
+[{
+  "_id": {
+    "$oid": "6714d933ed446dfabd0905f5"
+  },
+  "name": "Grand Palace Hotel",
+  "type": "villa",
+  "city": "Paris",
+  "address": "123 Champs-Élysées, Paris",
+  "distance": "2 km từ trung tâm",
+  "photos": {
+    "$oid": "6730db7053b52a2acd15c0c4"
+  },
+  "title": "Trải nghiệm sang trọng tại Paris",
+  "desc": "Khách sạn sang trọng với dịch vụ 5 sao.",
+  "rooms": [
+    {
+      "$oid": "67418ff488a6ba56c54f7ad6"
+    },
+    {
+      "$oid": "67419598226d7fe947698a21"
+    },
+    {
+      "$oid": "675123ea91b322ce1adf2b91"
+    },
+    {
+      "$oid": "67514bd4b12fe97e00f11d71"
+    }
+  ],
+  "cheapestPrice": 300,
+  "featured": false,
+  "__v": 2,
+  "numReviews": 1,
+  "rating": 5,
+  "reviews": [
+    {
+      "username": "kim",
+      "rating": 5,
+      "comment": "Dịch vụ tuyệt vời, sẽ quay lại lần nữa!",
+      "user": {
+        "$oid": "673708a28c8e57db6ba3dd7f"
+      },
+      "_id": {
+        "$oid": "6741ff405fea5483461d578d"
+      },
+      "createdAt": {
+        "$date": "2024-11-23T16:13:52.600Z"
+      },
+      "updatedAt": {
+        "$date": "2024-11-23T16:13:52.600Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6714d93ced446dfabd0905f7"
+  },
+  "name": "Budget Stay Inn",
+  "type": "apartment",
+  "city": "Tokyo",
+  "address": "456 Shibuya, Tokyo",
+  "distance": "1 km từ Shibuya",
+  "photos": {
+    "$oid": "6730db0c53b52a2acd15c0c0"
+  },
+  "title": "Khách sạn giá rẻ tại Tokyo",
+  "desc": "Khách sạn giá rẻ nhưng vẫn đảm bảo tiện nghi.",
+  "rooms": [
+    {
+      "$oid": "6741be26874d5b5cb535112a"
+    },
+    {
+      "$oid": "6751241891b322ce1adf2bde"
+    },
+    {
+      "$oid": "6751257091b322ce1adf2bef"
+    }
+  ],
+  "cheapestPrice": 50,
+  "featured": false,
+  "__v": 2,
+  "numReviews": 2,
+  "rating": 3.5,
+  "reviews": [
+    {
+      "username": "kim",
+      "rating": 2,
+      "comment": "test",
+      "user": {
+        "$oid": "673708a28c8e57db6ba3dd7f"
+      },
+      "_id": {
+        "$oid": "6742b1edeabf402460bfc107"
+      },
+      "createdAt": {
+        "$date": "2024-11-24T04:56:13.898Z"
+      },
+      "updatedAt": {
+        "$date": "2024-11-24T04:56:13.898Z"
+      }
+    },
+    {
+      "username": "hoangkim",
+      "rating": 5,
+      "comment": "test",
+      "user": {
+        "$oid": "675145d4b12fe97e00f1193a"
+      },
+      "_id": {
+        "$oid": "675146ebb12fe97e00f119cd"
+      },
+      "createdAt": {
+        "$date": "2024-12-05T06:23:39.466Z"
+      },
+      "updatedAt": {
+        "$date": "2024-12-05T06:23:39.466Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6714d944ed446dfabd0905f9"
+  },
+  "name": "Comfort Suites",
+  "type": "apartment",
+  "city": "New York",
+  "address": "789 Broadway, New York",
+  "distance": "500 m từ Times Square",
+  "photos": {
+    "$oid": "6730db3253b52a2acd15c0c2"
+  },
+  "title": "Khách sạn lý tưởng cho kỳ nghỉ tại New York",
+  "desc": "Khách sạn thoải mái và tiện nghi ở trung tâm New York.",
+  "rooms": [
+    {
+      "$oid": "6741d8917f0434de6b3c9406"
+    },
+    {
+      "$oid": "6741d9334d90683376fbce61"
+    },
+    {
+      "$oid": "67512c65d70a55d59f437005"
+    }
+  ],
+  "cheapestPrice": 150,
+  "featured": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6714d94eed446dfabd0905fb"
+  },
+  "name": "Ocean View Resort",
+  "type": "resort",
+  "city": "Maldives",
+  "address": "Beach Road, Maldives",
+  "distance": "Trên bãi biển",
+  "photos": {
+    "$oid": "6730dadf53b52a2acd15c0be"
+  },
+  "title": "Trải nghiệm tuyệt vời tại Maldives",
+  "desc": "Kỳ nghỉ dưỡng hoàn hảo bên bờ biển.",
+  "rooms": [],
+  "cheapestPrice": 500,
+  "featured": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6714d957ed446dfabd0905fd"
+  },
+  "name": "City Center Hostel",
+  "type": "hotel",
+  "city": "Barcelona",
+  "address": "321 La Rambla, Barcelona",
+  "distance": "300 m từ bến tàu",
+  "photos": {
+    "$oid": "6730dabc53b52a2acd15c0bc"
+  },
+  "title": "Hostel thuận tiện tại Barcelona",
+  "desc": "Nơi ở lý tưởng cho những người thích du lịch bụi.",
+  "rooms": [],
+  "cheapestPrice": 25,
+  "featured": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718a230bb8110ccae989ef5"
+  },
+  "name": "City Hostel",
+  "type": "hotel",
+  "city": "Barcelona",
+  "address": "321 La Rambla, Barcelona",
+  "distance": "300 m từ bến tàu",
+  "photos": {
+    "$oid": "6730daa453b52a2acd15c0ba"
+  },
+  "title": "Hostel thuận tiện tại Barcelona",
+  "desc": "Nơi ở lý tưởng cho những người thích du lịch bụi.",
+  "rooms": [],
+  "cheapestPrice": 25,
+  "featured": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671910cb683c3d57241eb7a9"
+  },
+  "name": "London Bridge Hotel",
+  "type": "hotel",
+  "city": "london",
+  "address": "8-18 London Bridge St, London",
+  "distance": "500 m từ cầu London Bridge",
+  "photos": {
+    "$oid": "6730da0053b52a2acd15c0b8"
+  },
+  "title": "Khách sạn sang trọng gần cầu London Bridge",
+  "desc": "Khách sạn hiện đại với tiện nghi đầy đủ, gần trung tâm thành phố.",
+  "cheapestPrice": 120,
+  "featured": true,
+  "__v": 2,
+  "rooms": [
+    {
+      "$oid": "67395065d091fadd2a299a9e"
+    }
+  ],
+  "numReviews": 2,
+  "rating": 1.5,
+  "reviews": [
+    {
+      "username": "kim",
+      "rating": 0,
+      "comment": "test",
+      "user": {
+        "$oid": "673708a28c8e57db6ba3dd7f"
+      },
+      "_id": {
+        "$oid": "674bef5da3d3369fa24dc207"
+      },
+      "createdAt": {
+        "$date": "2024-12-01T05:08:45.908Z"
+      },
+      "updatedAt": {
+        "$date": "2024-12-01T05:08:45.908Z"
+      }
+    },
+    {
+      "username": "ngthhoangkim",
+      "rating": 3,
+      "comment": "fix comment",
+      "user": {
+        "$oid": "674c6521a83959e9454965a3"
+      },
+      "_id": {
+        "$oid": "674c653ca83959e9454965cf"
+      },
+      "createdAt": {
+        "$date": "2024-12-01T13:31:40.990Z"
+      },
+      "updatedAt": {
+        "$date": "2024-12-01T13:31:40.990Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "671910dd683c3d57241eb7ab"
+  },
+  "name": "The Ritz Madrid",
+  "type": "cabin",
+  "city": "madrid",
+  "address": "Plaza de la Lealtad, 5, Madrid",
+  "distance": "200 m từ công viên El Retiro",
+  "photos": {
+    "$oid": "6730d9cd53b52a2acd15c0b6"
+  },
+  "title": "Khách sạn cao cấp tại trung tâm Madrid",
+  "desc": "Một trong những khách sạn nổi tiếng nhất tại Madrid, nằm ngay trung tâm thành phố.",
+  "rooms": [],
+  "cheapestPrice": 200,
+  "featured": true,
+  "__v": 2,
+  "numReviews": 2,
+  "rating": 5,
+  "reviews": [
+    {
+      "username": "hoangkim",
+      "rating": 5,
+      "comment": "tot",
+      "user": {
+        "$oid": "675145d4b12fe97e00f1193a"
+      },
+      "_id": {
+        "$oid": "67514b30b12fe97e00f11d2c"
+      },
+      "createdAt": {
+        "$date": "2024-12-05T06:41:52.709Z"
+      },
+      "updatedAt": {
+        "$date": "2024-12-05T06:41:52.709Z"
+      }
+    },
+    {
+      "username": "kim",
+      "rating": 5,
+      "comment": "so 2",
+      "user": {
+        "$oid": "673708a28c8e57db6ba3dd7f"
+      },
+      "_id": {
+        "$oid": "67514b49b12fe97e00f11d58"
+      },
+      "createdAt": {
+        "$date": "2024-12-05T06:42:17.156Z"
+      },
+      "updatedAt": {
+        "$date": "2024-12-05T06:42:17.156Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "671910e4683c3d57241eb7ad"
+  },
+  "name": "Berlin City Hostel",
+  "type": "apartment",
+  "city": "berlin",
+  "address": "Oranienburger Str. 65, Berlin",
+  "distance": "400 m từ Cổng Brandenburg",
+  "photos": {
+    "$oid": "6730d9b053b52a2acd15c0b4"
+  },
+  "title": "Hostel hiện đại tại Berlin",
+  "desc": "Hostel thoải mái và giá rẻ dành cho các bạn trẻ yêu thích khám phá Berlin.",
+  "rooms": [],
+  "cheapestPrice": 30,
+  "featured": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671910ef683c3d57241eb7af"
+  },
+  "name": "The Savoy London",
+  "type": "hotel",
+  "city": "london",
+  "address": "Strand, London",
+  "distance": "600 m từ quảng trường Trafalgar",
+  "photos": {
+    "$oid": "6730d98953b52a2acd15c0b2"
+  },
+  "title": "Khách sạn cổ điển tại London",
+  "desc": "Nơi nghỉ dưỡng đẳng cấp với phong cách hoàng gia, gần các điểm tham quan nổi tiếng.",
+  "rooms": [],
+  "cheapestPrice": 300,
+  "featured": true,
+  "__v": 1,
+  "numReviews": 1,
+  "rating": 5,
+  "reviews": [
+    {
+      "username": "ngthhoangkim",
+      "rating": 5,
+      "comment": "test đánh giá",
+      "user": {
+        "$oid": "674c6521a83959e9454965a3"
+      },
+      "_id": {
+        "$oid": "674c658aa83959e9454965ed"
+      },
+      "createdAt": {
+        "$date": "2024-12-01T13:32:58.027Z"
+      },
+      "updatedAt": {
+        "$date": "2024-12-01T13:32:58.027Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "671910f5683c3d57241eb7b1"
+  },
+  "name": "Madrid Central Hostel",
+  "type": "apartment",
+  "city": "madrid",
+  "address": "Calle de la Montera, Madrid",
+  "distance": "500 m từ Plaza Mayor",
+  "photos": {
+    "$oid": "6730d94efcce69ff9fc5f738"
+  },
+  "title": "Hostel tại trung tâm Madrid",
+  "desc": "Nơi lý tưởng cho những người du lịch bụi, nằm gần các địa điểm nổi tiếng của Madrid.",
+  "rooms": [],
+  "cheapestPrice": 40,
+  "featured": true,
+  "__v": 0
+}]
