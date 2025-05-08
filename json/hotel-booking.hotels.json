@@ -24,6 +24,9 @@
     },
     {
       "$oid": "67514bd4b12fe97e00f11d71"
+    },
+    {
+      "$oid": "681cd28fd5c0cc6aee35a9a3"
     }
   ],
   "cheapestPrice": 300,
@@ -224,6 +227,9 @@
   "rooms": [
     {
       "$oid": "67395065d091fadd2a299a9e"
+    },
+    {
+      "$oid": "681cd17dd5c0cc6aee35a5c0"
     }
   ],
   "numReviews": 2,
@@ -279,11 +285,15 @@
   },
   "title": "Khách sạn cao cấp tại trung tâm Madrid",
   "desc": "Một trong những khách sạn nổi tiếng nhất tại Madrid, nằm ngay trung tâm thành phố.",
-  "rooms": [],
+  "rooms": [
+    {
+      "$oid": "681cd0e6d5c0cc6aee35a48d"
+    }
+  ],
   "cheapestPrice": 200,
   "featured": true,
-  "__v": 2,
-  "numReviews": 2,
+  "__v": 3,
+  "numReviews": 3,
   "rating": 5,
   "reviews": [
     {
@@ -319,6 +329,23 @@
       "updatedAt": {
         "$date": "2024-12-05T06:42:17.156Z"
       }
+    },
+    {
+      "username": "test",
+      "rating": 5,
+      "comment": "Khách sạn này rất tuyệt vời",
+      "user": {
+        "$oid": "681cd113d5c0cc6aee35a4c0"
+      },
+      "_id": {
+        "$oid": "681cd130d5c0cc6aee35a4fb"
+      },
+      "createdAt": {
+        "$date": "2025-05-08T15:43:44.992Z"
+      },
+      "updatedAt": {
+        "$date": "2025-05-08T15:43:44.992Z"
+      }
     }
   ]
 },
@@ -336,10 +363,35 @@
   },
   "title": "Hostel hiện đại tại Berlin",
   "desc": "Hostel thoải mái và giá rẻ dành cho các bạn trẻ yêu thích khám phá Berlin.",
-  "rooms": [],
+  "rooms": [
+    {
+      "$oid": "681ccffed5c0cc6aee35a21d"
+    }
+  ],
   "cheapestPrice": 30,
   "featured": true,
-  "__v": 0
+  "__v": 1,
+  "numReviews": 1,
+  "rating": 5,
+  "reviews": [
+    {
+      "username": "test",
+      "rating": 5,
+      "comment": "test bình luận nè\n",
+      "user": {
+        "$oid": "681ccf77d5c0cc6aee35a128"
+      },
+      "_id": {
+        "$oid": "681ccf9ed5c0cc6aee35a152"
+      },
+      "createdAt": {
+        "$date": "2025-05-08T15:37:02.887Z"
+      },
+      "updatedAt": {
+        "$date": "2025-05-08T15:37:02.887Z"
+      }
+    }
+  ]
 },
 {
   "_id": {

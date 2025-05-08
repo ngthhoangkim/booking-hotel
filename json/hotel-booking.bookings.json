@@ -1,1 +1,230 @@
-[]
+[{
+  "_id": {
+    "$oid": "681cd00ed5c0cc6aee35a267"
+  },
+  "hotelId": {
+    "$oid": "671910e4683c3d57241eb7ad"
+  },
+  "selectedRooms": [
+    {
+      "roomId": {
+        "$oid": "681ccffed5c0cc6aee35a21d"
+      },
+      "roomNumber": 201,
+      "idRoomNumber": "681ccffed5c0cc6aee35a21e",
+      "_id": {
+        "$oid": "681cd00ed5c0cc6aee35a268"
+      }
+    }
+  ],
+  "totalPrice": 460000,
+  "paymentStatus": "success",
+  "paymentInfo": {
+    "checkinDate": {
+      "$date": "2025-05-08T00:00:00.000Z"
+    },
+    "checkoutDate": {
+      "$date": "2025-05-10T00:00:00.000Z"
+    }
+  },
+  "customer": {
+    "$oid": "681ccf77d5c0cc6aee35a128"
+  },
+  "paymentDate": {
+    "$date": "2025-05-08T15:40:01.522Z"
+  },
+  "bookingDate": {
+    "$date": "2025-05-08T15:38:54.320Z"
+  },
+  "createdAt": {
+    "$date": "2025-05-08T15:38:54.321Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T15:40:01.523Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681cd13cd5c0cc6aee35a515"
+  },
+  "hotelId": {
+    "$oid": "671910dd683c3d57241eb7ab"
+  },
+  "selectedRooms": [
+    {
+      "roomId": {
+        "$oid": "681cd0e6d5c0cc6aee35a48d"
+      },
+      "roomNumber": 201,
+      "idRoomNumber": "681cd0e6d5c0cc6aee35a48e",
+      "_id": {
+        "$oid": "681cd13cd5c0cc6aee35a516"
+      }
+    }
+  ],
+  "totalPrice": 63192.230555555565,
+  "paymentStatus": "pending",
+  "paymentInfo": {
+    "checkinDate": {
+      "$date": "2025-05-08T00:00:00.000Z"
+    },
+    "checkoutDate": {
+      "$date": "2025-05-10T00:00:00.000Z"
+    }
+  },
+  "customer": {
+    "$oid": "681cd113d5c0cc6aee35a4c0"
+  },
+  "paymentDate": {
+    "$date": "2025-05-08T15:43:56.415Z"
+  },
+  "bookingDate": {
+    "$date": "2025-05-08T15:43:56.415Z"
+  },
+  "createdAt": {
+    "$date": "2025-05-08T15:43:56.416Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T15:43:56.416Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681cd19ed5c0cc6aee35a689"
+  },
+  "hotelId": {
+    "$oid": "671910cb683c3d57241eb7a9"
+  },
+  "selectedRooms": [
+    {
+      "roomId": {
+        "$oid": "681cd17dd5c0cc6aee35a5c0"
+      },
+      "roomNumber": 201,
+      "idRoomNumber": "681cd17dd5c0cc6aee35a5c1",
+      "_id": {
+        "$oid": "681cd19ed5c0cc6aee35a68a"
+      }
+    }
+  ],
+  "totalPrice": 400000,
+  "paymentStatus": "pending",
+  "paymentInfo": {
+    "checkinDate": {
+      "$date": "2025-05-08T00:00:00.000Z"
+    },
+    "checkoutDate": {
+      "$date": "2025-05-10T00:00:00.000Z"
+    }
+  },
+  "customer": {
+    "$oid": "681cd113d5c0cc6aee35a4c0"
+  },
+  "paymentDate": {
+    "$date": "2025-05-08T15:45:34.703Z"
+  },
+  "bookingDate": {
+    "$date": "2025-05-08T15:45:34.703Z"
+  },
+  "createdAt": {
+    "$date": "2025-05-08T15:45:34.705Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T15:45:34.705Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681cd1e7d5c0cc6aee35a709"
+  },
+  "hotelId": {
+    "$oid": "671910cb683c3d57241eb7a9"
+  },
+  "selectedRooms": [
+    {
+      "roomId": {
+        "$oid": "681cd17dd5c0cc6aee35a5c0"
+      },
+      "roomNumber": 201,
+      "idRoomNumber": "681cd17dd5c0cc6aee35a5c1",
+      "_id": {
+        "$oid": "681cd1e7d5c0cc6aee35a70a"
+      }
+    }
+  ],
+  "totalPrice": 210193.71990740742,
+  "paymentStatus": "pending",
+  "paymentInfo": {
+    "checkinDate": {
+      "$date": "2025-05-08T00:00:00.000Z"
+    },
+    "checkoutDate": {
+      "$date": "2025-05-10T00:00:00.000Z"
+    }
+  },
+  "customer": {
+    "$oid": "681cd1d2d5c0cc6aee35a6c4"
+  },
+  "paymentDate": {
+    "$date": "2025-05-08T15:46:47.961Z"
+  },
+  "bookingDate": {
+    "$date": "2025-05-08T15:46:47.961Z"
+  },
+  "createdAt": {
+    "$date": "2025-05-08T15:46:47.962Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T15:46:47.962Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681cd222d5c0cc6aee35a81c"
+  },
+  "hotelId": {
+    "$oid": "6714d93ced446dfabd0905f7"
+  },
+  "selectedRooms": [
+    {
+      "roomId": {
+        "$oid": "6751241891b322ce1adf2bde"
+      },
+      "roomNumber": 101,
+      "idRoomNumber": "6751241891b322ce1adf2bdf",
+      "_id": {
+        "$oid": "681cd222d5c0cc6aee35a81d"
+      }
+    }
+  ],
+  "totalPrice": 400000,
+  "paymentStatus": "success",
+  "paymentInfo": {
+    "checkinDate": {
+      "$date": "2025-05-08T00:00:00.000Z"
+    },
+    "checkoutDate": {
+      "$date": "2025-05-10T00:00:00.000Z"
+    }
+  },
+  "customer": {
+    "$oid": "681cd1d2d5c0cc6aee35a6c4"
+  },
+  "paymentDate": {
+    "$date": "2025-05-08T15:48:32.622Z"
+  },
+  "bookingDate": {
+    "$date": "2025-05-08T15:47:46.339Z"
+  },
+  "createdAt": {
+    "$date": "2025-05-08T15:47:46.341Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T15:48:32.622Z"
+  },
+  "__v": 0
+}]
